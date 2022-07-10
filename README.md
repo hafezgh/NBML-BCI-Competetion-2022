@@ -1,7 +1,7 @@
 # NBML-BCI-Competetion-2022
 
 
-The submission code and dataset for the Fifth BCI Competition held by Iranian National Brain Mapping Laboratory (NBML) focusing on auditory attention.
+The submission code and dataset for the Fifth BCI Competition focusing on auditory attention held by Iranian National Brain Mapping Laboratory (NBML) .
 
 
 Team name: Livewired
